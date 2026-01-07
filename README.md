@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi these are my leetcode stats
 
 <!--
 **shivgez/shivgez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
